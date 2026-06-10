@@ -32,7 +32,6 @@
 </p>
 
 ###
-$\color{yellow}{\text{↳}}$ $\color{yellow}{\text{Crisstuff}}$
 
 # 📊 GitHub Stats:
   <!--
