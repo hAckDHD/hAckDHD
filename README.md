@@ -1,13 +1,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=Visitors%2Fbot%20view&left_color=%23097401&right_color=%23000000)
 
 
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]([https://crisstuff.github.io/](https://www.w3schools.com/js/))
 
 # Hey there my name is hAckDHD - they guy hacking with ADHD!
 ## About Me:
 - <b> I’m currently working as a Security Analyst
 - <b> I’m currently working on my CPTS and studying threat intel and how our systems could be at *risk*
-- <b> How to reach me: </b> Tlf: +47 48188484 & E-mail: cristofferfolkedalrramsdal@gmail.com
 
 
 ## What skills🛠️:
