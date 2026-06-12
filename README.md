@@ -1,5 +1,5 @@
 # Hey there my name is hAckDHD - they guy hacking with ADHD!
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=25F707)(https://kali.org)
+[![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=25F707)](https://kali.org)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25F707&background=000000&width=435&lines=LIVE+AND+DIE+BY+THE+TERMINAL+.+.+.)](https://git.io/typing-svg)
 ## Links:
