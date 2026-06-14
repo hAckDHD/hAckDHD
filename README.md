@@ -21,7 +21,7 @@
 ![](https://streak-stats.demolab.com/?user=hAckDHD&hide_border=false&background=000000&border=25F707&stroke=25F707&ring=25F707&fire=25F707&currStreakNum=25F707&currStreakLabel=25F707&sideNums=25F707&sideLabels=25F707&dates=25F707)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hAckDHD&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=000000&title_color=25F707&text_color=25F707&border_color=25F707)
 ---
-[![](https://komarev.com/ghpvc/?username=hAckDHD&icon=0&color=25F707&style=for-the-badge)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=hAckDHD&label=BOT+AND+HUMAN+VIEWS&icon=0&color=008000&style=for-the-badge)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Projects:
 -- Here are a few projects that im proud of! Some AI, some not, some mixed. 
