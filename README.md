@@ -2,8 +2,7 @@
 [![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=25F707)](https://kali.org)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25F707&background=000000&width=435&lines=LIVE+AND+DIE+BY+THE+TERMINAL+.+.+.)](https://git.io/typing-svg)
-## Links:
-[![The_hAckDHD](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=25F707)](https://x.com/The_hAckDHD)
+
 # Tech Stack:
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=25F707) ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=25F707) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=25F707) ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=25F707) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=25F707) ![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=25F707) 
 
